@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C238C39-6842-41D1-B9CD-D884D5C87855}|CandidatosBusiness\\CandidatosBusiness.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosbusiness\\candidatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C238C39-6842-41D1-B9CD-D884D5C87855}|CandidatosBusiness\\CandidatosBusiness.csproj|solutionrelative:candidatosbusiness\\candidatoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosui\\views\\candidatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|solutionrelative:candidatosui\\views\\candidatos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosui\\controllers\\candidatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|solutionrelative:candidatosui\\controllers\\candidatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|solutionrelative:candidatosui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|solutionrelative:candidatosui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EE4DC-EA7A-4BAB-8496-740C3EE80C51}|CandidatosApi\\CandidatosApi.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709EE4DC-EA7A-4BAB-8496-740C3EE80C51}|CandidatosApi\\CandidatosApi.csproj|solutionrelative:candidatosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosdata\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|solutionrelative:candidatosdata\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EE4DC-EA7A-4BAB-8496-740C3EE80C51}|CandidatosApi\\CandidatosApi.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosapi\\candidatosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{709EE4DC-EA7A-4BAB-8496-740C3EE80C51}|CandidatosApi\\CandidatosApi.csproj|solutionrelative:candidatosapi\\candidatosapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B65469E-83C7-4B24-857B-39916117869A}|CandidatosUI\\CandidatosUI.csproj|solutionrelative:candidatosui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosdata\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|solutionrelative:candidatosdata\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709EE4DC-EA7A-4BAB-8496-740C3EE80C51}|CandidatosApi\\CandidatosApi.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{709EE4DC-EA7A-4BAB-8496-740C3EE80C51}|CandidatosApi\\CandidatosApi.csproj|solutionrelative:candidatosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosdata\\migrations\\20251013114146_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|solutionrelative:candidatosdata\\migrations\\20251013114146_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A17947C-C357-4246-99B4-CAB8C06AC2E3}|CandidatosData\\CandidatosData.csproj|solutionrelative:candidatosdata\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7091AD09-2EE1-4D1D-A352-DA6F37FA50AA}|CandidatosModel\\CandidatosModel.csproj|c:\\users\\rafaelsantospereira\\source\\repos\\projeto_abd\\candidatos\\candidatosmodel\\candidatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7091AD09-2EE1-4D1D-A352-DA6F37FA50AA}|CandidatosModel\\CandidatosModel.csproj|solutionrelative:candidatosmodel\\candidatomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidatoService.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosBusiness\\CandidatoService.cs",
+              "RelativeDocumentMoniker": "CandidatosBusiness\\CandidatoService.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosBusiness\\CandidatoService.cs",
+              "RelativeToolTip": "CandidatosBusiness\\CandidatoService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T22:42:18.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Views\\Candidatos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidatosUI\\Views\\Candidatos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Views\\Candidatos\\Delete.cshtml",
+              "RelativeToolTip": "CandidatosUI\\Views\\Candidatos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T12:24:06.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CandidatosUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CandidatosUI\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:22:24.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidatosController.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Controllers\\CandidatosController.cs",
+              "RelativeDocumentMoniker": "CandidatosUI\\Controllers\\CandidatosController.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Controllers\\CandidatosController.cs",
+              "RelativeToolTip": "CandidatosUI\\Controllers\\CandidatosController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:21:53.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Program.cs",
+              "RelativeDocumentMoniker": "CandidatosUI\\Program.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\Program.cs",
+              "RelativeToolTip": "CandidatosUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:08:40.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosApi\\Program.cs",
+              "RelativeDocumentMoniker": "CandidatosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosApi\\Program.cs",
+              "RelativeToolTip": "CandidatosApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:07:06.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidatosApi.http",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosApi\\CandidatosApi.http",
+              "RelativeDocumentMoniker": "CandidatosApi\\CandidatosApi.http",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosApi\\CandidatosApi.http",
+              "RelativeToolTip": "CandidatosApi\\CandidatosApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-10-13T12:04:46.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidatosUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosUI\\appsettings.json",
+              "RelativeToolTip": "CandidatosUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T12:04:44.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CandidatosApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosApi\\appsettings.json",
+              "RelativeToolTip": "CandidatosApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T12:04:36.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CandidatosData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "CandidatosData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:42:12.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20251013114146_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\Migrations\\20251013114146_Initial.cs",
+              "RelativeDocumentMoniker": "CandidatosData\\Migrations\\20251013114146_Initial.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\Migrations\\20251013114146_Initial.cs",
+              "RelativeToolTip": "CandidatosData\\Migrations\\20251013114146_Initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:42:06.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CandidatosData\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CandidatosData\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:29:26.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "CandidatosData\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosData\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "CandidatosData\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:27:39.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandidatoModel.cs",
+              "DocumentMoniker": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosModel\\CandidatoModel.cs",
+              "RelativeDocumentMoniker": "CandidatosModel\\CandidatoModel.cs",
+              "ToolTip": "C:\\Users\\RafaelSantosPereira\\source\\repos\\projeto_ABD\\Candidatos\\CandidatosModel\\CandidatoModel.cs",
+              "RelativeToolTip": "CandidatosModel\\CandidatoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T11:21:57.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\bin\Debug\net9.0\CandidatosModel.deps.json
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\bin\Debug\net9.0\CandidatosModel.dll
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\bin\Debug\net9.0\CandidatosModel.pdb
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.AssemblyInfoInputs.cache
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.AssemblyInfo.cs
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.csproj.CoreCompileInputs.cache
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.sourcelink.json
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.dll
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\refint\CandidatosModel.dll
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\CandidatosModel.pdb
+C:\Users\RafaelSantosPereira\Source\Repos\projeto_ABD\Candidatos\CandidatosModel\obj\Debug\net9.0\ref\CandidatosModel.dll
